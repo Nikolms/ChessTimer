@@ -1,0 +1,27 @@
+{
+    "author": "CratZCode",
+    "dependencies": {},
+    "keywords": [],
+    "name": "chesstimer",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "ChessTimer",
+        "enableMultiJS": true,
+        "messageKeys": {},
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "3f5340b1-72c5-4247-b4f5-2160132cc7f5",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
